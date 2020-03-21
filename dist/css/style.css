@@ -15,7 +15,7 @@ body {
 .bg {
   width: 100%;
   height: 100vh;
-  background: url("/img/Shadow.jpg") no-repeat center;
+  background: url("../img/Shadow.jpg") no-repeat center;
   background-size: cover;
   position: fixed;
   top: 0;
@@ -109,19 +109,19 @@ body {
   font-size: 21px;
 }
 .cats .item_blue {
-  background: url("/img/cat1.png") no-repeat center bottom;
+  background: url("../img/cat1.png") no-repeat center bottom;
 }
 .cats .item_blue .item__size {
   background-color: #1698d9;
 }
 .cats .item_red {
-  background: url("/img/cat2.png") no-repeat center bottom;
+  background: url("../img/cat2.png") no-repeat center bottom;
 }
 .cats .item_red .item__size {
   background-color: #d91667;
 }
 .cats .item_greey {
-  background: url("/img/cat3.png") no-repeat center bottom;
+  background: url("../img/cat3.png") no-repeat center bottom;
 }
 .cats .item_greey .item__size {
   background-color: #b3b3b3;
